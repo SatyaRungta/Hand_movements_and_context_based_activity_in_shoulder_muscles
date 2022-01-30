@@ -1,2 +1,4 @@
-# context_based_activity
-Supplementary figures for article on: Early recruitment of muscle activity during delayed reach movements is correlated with reaction times and based on task context
+Early recruitment of muscle activity during delayed reach movements is correlated with reaction times and based on task context
+This link contains the supplementary figures required for the article entitled:
+
+Early recruitment of muscle activity during delayed reach movements is correlated with reaction times and based on task context
